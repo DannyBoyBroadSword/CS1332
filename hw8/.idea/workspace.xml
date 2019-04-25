@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26eec0f2-ff64-468f-b61d-2b4711699b17" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/APESortTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3936">
+              <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#9939#9940#0" expanded="true" />
+                <element signature="e#9981#9982#0" expanded="true" />
+                <element signature="e#10501#10502#0" expanded="true" />
+                <element signature="e#10563#10564#0" expanded="true" />
+                <element signature="e#10959#10960#0" expanded="true" />
+                <element signature="e#10994#10995#0" expanded="true" />
+                <element signature="e#12287#12288#0" expanded="true" />
+                <element signature="e#12322#12323#0" expanded="true" />
+                <element signature="e#12376#12377#0" expanded="true" />
+                <element signature="e#12432#12433#0" expanded="true" />
+                <element signature="e#14047#14048#0" expanded="true" />
+                <element signature="e#14083#14084#0" expanded="true" />
+                <element signature="e#14269#14270#0" expanded="true" />
+                <element signature="e#14300#14301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BetterTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6192">
+              <caret line="291" column="17" selection-start-line="291" selection-start-column="17" selection-end-line="291" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#897#898#0" expanded="true" />
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1204#1205#0" expanded="true" />
+                <element signature="e#1249#1250#0" expanded="true" />
+                <element signature="e#1342#1343#0" expanded="true" />
+                <element signature="e#1388#1389#0" expanded="true" />
+                <element signature="e#1772#1773#0" expanded="true" />
+                <element signature="e#1824#1825#0" expanded="true" />
+                <element signature="e#1916#1917#0" expanded="true" />
+                <element signature="e#1965#1966#0" expanded="true" />
+                <element signature="e#2059#2060#0" expanded="true" />
+                <element signature="e#2109#2110#0" expanded="true" />
+                <element signature="e#2201#2202#0" expanded="true" />
+                <element signature="e#2250#2251#0" expanded="true" />
+                <element signature="e#2344#2345#0" expanded="true" />
+                <element signature="e#2394#2395#0" expanded="true" />
+                <element signature="e#2482#2483#0" expanded="true" />
+                <element signature="e#2524#2525#0" expanded="true" />
+                <element signature="e#11707#11708#0" expanded="true" />
+                <element signature="e#11742#11743#0" expanded="true" />
+                <element signature="e#11774#11775#0" expanded="true" />
+                <element signature="e#11810#11811#0" expanded="true" />
+                <element signature="e#11871#11872#0" expanded="true" />
+                <element signature="e#11911#11912#0" expanded="true" />
+                <element signature="e#11953#11954#0" expanded="true" />
+                <element signature="e#11995#11996#0" expanded="true" />
+                <element signature="e#13411#13412#0" expanded="true" />
+                <element signature="e#13447#13448#0" expanded="true" />
+                <element signature="e#13633#13634#0" expanded="true" />
+                <element signature="e#13664#13665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortingStudentTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2328">
+              <caret line="104" column="15" selection-start-line="104" selection-start-column="15" selection-end-line="104" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/YangSortingStudentTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7848">
+              <caret line="355" column="1" selection-start-line="355" selection-start-column="1" selection-end-line="355" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#8062#8063#0" expanded="true" />
+                <element signature="e#8102#8103#0" expanded="true" />
+                <element signature="e#8269#8270#0" expanded="true" />
+                <element signature="e#8304#8305#0" expanded="true" />
+                <element signature="e#8488#8489#0" expanded="true" />
+                <element signature="e#8528#8529#0" expanded="true" />
+                <element signature="e#8582#8583#0" expanded="true" />
+                <element signature="e#8628#8629#0" expanded="true" />
+                <element signature="e#9621#9622#0" expanded="true" />
+                <element signature="e#9657#9658#0" expanded="true" />
+                <element signature="e#9843#9844#0" expanded="true" />
+                <element signature="e#9874#9875#0" expanded="true" />
+                <element signature="e#10157#10158#0" expanded="true" />
+                <element signature="e#10201#10202#0" expanded="true" />
+                <element signature="e#10371#10372#0" expanded="true" />
+                <element signature="e#10408#10409#0" expanded="true" />
+                <element signature="e#10599#10600#0" expanded="true" />
+                <element signature="e#10643#10644#0" expanded="true" />
+                <element signature="e#10697#10698#0" expanded="true" />
+                <element signature="e#10747#10748#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Sorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Downloads/homework08/Sorting.java" />
+        <option value="$PROJECT_DIR$/src/YangSortingStudentTests.java" />
+        <option value="$PROJECT_DIR$/src/SortingStudentTests.java" />
+        <option value="$PROJECT_DIR$/src/BetterTests.java" />
+        <option value="$PROJECT_DIR$/src/APESortTests.java" />
+        <option value="$PROJECT_DIR$/src/Sorting.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="463" />
+    <option name="y" value="97" />
+    <option name="width" value="640" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw8" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw8" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553720947084" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IDE Settings/CS1332-checkstyle.xml" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.APESortTests">
+    <configuration name="APESortTests" type="JUnit" factoryName="JUnit">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="APESortTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BetterTests" type="JUnit" factoryName="JUnit">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BetterTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingStudentTests.testInsertionSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortingStudentTests" />
+      <option name="METHOD_NAME" value="testInsertionSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingStudentTests.testLsdRadixSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortingStudentTests" />
+      <option name="METHOD_NAME" value="testLsdRadixSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingStudentTests.testMergeSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortingStudentTests" />
+      <option name="METHOD_NAME" value="testMergeSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingStudentTests.testQuickSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortingStudentTests" />
+      <option name="METHOD_NAME" value="testQuickSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingStudentTests.testSelectionSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortingStudentTests" />
+      <option name="METHOD_NAME" value="testSelectionSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST1" type="JUnit" factoryName="JUnit">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortingStudentTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YangSortingStudentTests" type="JUnit" factoryName="JUnit">
+      <module name="hw8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="YangSortingStudentTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.APESortTests" />
+      <item itemvalue="JUnit.BetterTests" />
+      <item itemvalue="JUnit.SortingStudentTests.testInsertionSort" />
+      <item itemvalue="JUnit.SortingStudentTests.testLsdRadixSort" />
+      <item itemvalue="JUnit.SortingStudentTests.testMergeSort" />
+      <item itemvalue="JUnit.SortingStudentTests.testQuickSort" />
+      <item itemvalue="JUnit.SortingStudentTests.testSelectionSort" />
+      <item itemvalue="JUnit.TEST1" />
+      <item itemvalue="JUnit.YangSortingStudentTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SortingStudentTests.testLsdRadixSort" />
+        <item itemvalue="JUnit.SortingStudentTests.testQuickSort" />
+        <item itemvalue="JUnit.SortingStudentTests.testMergeSort" />
+        <item itemvalue="JUnit.SortingStudentTests.testSelectionSort" />
+        <item itemvalue="JUnit.SortingStudentTests.testInsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26eec0f2-ff64-468f-b61d-2b4711699b17" name="Default Changelist" comment="" />
+      <created>1552758345541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552758345541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BetterTests - 2019.03.27 at 02h 37m 23s.xml">
+      <configuration name="BetterTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YangSortingStudentTests - 2019.03.27 at 02h 39m 23s.xml">
+      <configuration name="YangSortingStudentTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YangSortingStudentTests - 2019.03.27 at 02h 45m 27s.xml">
+      <configuration name="YangSortingStudentTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YangSortingStudentTests - 2019.03.27 at 02h 45m 38s.xml">
+      <configuration name="YangSortingStudentTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YangSortingStudentTests - 2019.03.27 at 02h 46m 26s.xml">
+      <configuration name="YangSortingStudentTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YangSortingStudentTests - 2019.03.27 at 02h 46m 42s.xml">
+      <configuration name="YangSortingStudentTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APESortTests - 2019.03.27 at 12h 26m 01s.xml">
+      <configuration name="APESortTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APESortTests - 2019.03.27 at 16h 26m 09s.xml">
+      <configuration name="APESortTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APESortTests - 2019.03.27 at 16h 27m 40s.xml">
+      <configuration name="APESortTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APESortTests - 2019.03.27 at 23h 27m 03s.xml">
+      <configuration name="APESortTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17285945" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.072829135" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="CheckStyle" order="6" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="CodeMR Metrics" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="CodeMR" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info active="true" anchor="right" id="Run" order="10" side_tool="true" visible="true" weight="0.26817447" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortingStudentTests.java</url>
+          <line>94</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sorting.java</url>
+          <line>276</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/APESortTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3936">
+          <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#9939#9940#0" expanded="true" />
+            <element signature="e#9981#9982#0" expanded="true" />
+            <element signature="e#10501#10502#0" expanded="true" />
+            <element signature="e#10563#10564#0" expanded="true" />
+            <element signature="e#10959#10960#0" expanded="true" />
+            <element signature="e#10994#10995#0" expanded="true" />
+            <element signature="e#12287#12288#0" expanded="true" />
+            <element signature="e#12322#12323#0" expanded="true" />
+            <element signature="e#12376#12377#0" expanded="true" />
+            <element signature="e#12432#12433#0" expanded="true" />
+            <element signature="e#14047#14048#0" expanded="true" />
+            <element signature="e#14083#14084#0" expanded="true" />
+            <element signature="e#14269#14270#0" expanded="true" />
+            <element signature="e#14300#14301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BetterTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6192">
+          <caret line="291" column="17" selection-start-line="291" selection-start-column="17" selection-end-line="291" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1772#1773#0" expanded="true" />
+            <element signature="e#1824#1825#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1965#1966#0" expanded="true" />
+            <element signature="e#2059#2060#0" expanded="true" />
+            <element signature="e#2109#2110#0" expanded="true" />
+            <element signature="e#2201#2202#0" expanded="true" />
+            <element signature="e#2250#2251#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2394#2395#0" expanded="true" />
+            <element signature="e#2482#2483#0" expanded="true" />
+            <element signature="e#2524#2525#0" expanded="true" />
+            <element signature="e#11707#11708#0" expanded="true" />
+            <element signature="e#11742#11743#0" expanded="true" />
+            <element signature="e#11774#11775#0" expanded="true" />
+            <element signature="e#11810#11811#0" expanded="true" />
+            <element signature="e#11871#11872#0" expanded="true" />
+            <element signature="e#11911#11912#0" expanded="true" />
+            <element signature="e#11953#11954#0" expanded="true" />
+            <element signature="e#11995#11996#0" expanded="true" />
+            <element signature="e#13411#13412#0" expanded="true" />
+            <element signature="e#13447#13448#0" expanded="true" />
+            <element signature="e#13633#13634#0" expanded="true" />
+            <element signature="e#13664#13665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortingStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2328">
+          <caret line="104" column="15" selection-start-line="104" selection-start-column="15" selection-end-line="104" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/YangSortingStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7848">
+          <caret line="355" column="1" selection-start-line="355" selection-start-column="1" selection-end-line="355" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8062#8063#0" expanded="true" />
+            <element signature="e#8102#8103#0" expanded="true" />
+            <element signature="e#8269#8270#0" expanded="true" />
+            <element signature="e#8304#8305#0" expanded="true" />
+            <element signature="e#8488#8489#0" expanded="true" />
+            <element signature="e#8528#8529#0" expanded="true" />
+            <element signature="e#8582#8583#0" expanded="true" />
+            <element signature="e#8628#8629#0" expanded="true" />
+            <element signature="e#9621#9622#0" expanded="true" />
+            <element signature="e#9657#9658#0" expanded="true" />
+            <element signature="e#9843#9844#0" expanded="true" />
+            <element signature="e#9874#9875#0" expanded="true" />
+            <element signature="e#10157#10158#0" expanded="true" />
+            <element signature="e#10201#10202#0" expanded="true" />
+            <element signature="e#10371#10372#0" expanded="true" />
+            <element signature="e#10408#10409#0" expanded="true" />
+            <element signature="e#10599#10600#0" expanded="true" />
+            <element signature="e#10643#10644#0" expanded="true" />
+            <element signature="e#10697#10698#0" expanded="true" />
+            <element signature="e#10747#10748#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hw8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

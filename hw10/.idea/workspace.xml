@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd6dd0be-1f42-4644-a158-98355ed4a5fe" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GraphAlgorithms.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1920">
+              <caret line="199" column="75" selection-start-line="199" selection-start-column="16" selection-end-line="199" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/APEGraphTest.java" />
+        <option value="$PROJECT_DIR$/src/GraphAlgorithms.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hw10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hw10" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw10" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555531848848" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IDE Settings/CS1332-checkstyle.xml" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphAlgorithmStudentTests">
+    <configuration name="APEGraphTest" type="JUnit" factoryName="JUnit">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="APEGraphTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmStudentTests" type="JUnit" factoryName="JUnit">
+      <module name="hw10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsStudentTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GraphAlgorithmStudentTests" />
+      <item itemvalue="JUnit.APEGraphTest" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd6dd0be-1f42-4644-a158-98355ed4a5fe" name="Default Changelist" comment="" />
+      <created>1555462579833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555462579833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GraphAlgorithmStudentTests - 2019.04.17 at 01h 26m 30s.xml">
+      <configuration name="GraphAlgorithmStudentTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 01h 26m 36s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 01h 30m 39s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 01h 33m 17s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 03h 12m 14s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 03h 12m 56s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 03h 15m 11s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 03h 20m 22s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APEGraphTest - 2019.04.17 at 03h 20m 40s.xml">
+      <configuration name="APEGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphAlgorithmStudentTests - 2019.04.17 at 03h 25m 04s.xml">
+      <configuration name="GraphAlgorithmStudentTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29517242" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28070176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39872408" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" weight="0.14832535" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32854864" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="CodeMR Metrics" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="CodeMR" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1038">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="39" column="7" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VertexDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APEGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#747#773#0" expanded="true" />
+            <element signature="e#828#845#0" expanded="true" />
+            <element signature="e#2716#2717#0" expanded="true" />
+            <element signature="e#2750#2751#0" expanded="true" />
+            <element signature="e#5357#5383#0" expanded="true" />
+            <element signature="e#5438#5455#0" expanded="true" />
+            <element signature="e#5712#5727#0" expanded="true" />
+            <element signature="e#6756#6782#0" expanded="true" />
+            <element signature="e#6837#6854#0" expanded="true" />
+            <element signature="e#7169#7184#0" expanded="true" />
+            <element signature="e#8198#8212#0" expanded="true" />
+            <element signature="e#8266#8282#0" expanded="true" />
+            <element signature="e#10049#10063#0" expanded="true" />
+            <element signature="e#12960#12977#0" expanded="true" />
+            <element signature="e#13229#13244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphAlgorithmsStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GraphAlgorithms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="199" column="75" selection-start-line="199" selection-start-column="16" selection-end-line="199" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

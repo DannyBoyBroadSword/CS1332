@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f328b91b-9ffd-4173-8d83-c8aacc5cb757" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/hw3$BarronTest_testArrayStackPush.ic" NAME="BarronTest.testArrayStackPush Coverage Results" MODIFIED="1548711528976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hw3" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5088853">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/ArrayQueue.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="460">
+                  <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/StacksQueuesStudentTests.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2300">
+                  <caret line="105" selection-start-line="105" selection-end-line="105" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/LinkedNode.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="46">
+                  <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="368">
+                  <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/ArrayStack.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="578">
+                  <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/LinkedQueue.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2599">
+                  <caret line="113" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/StacksQueuesStudentTests.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="92">
+                  <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/KareerFuzzyTests.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2967">
+                  <caret line="134" selection-start-line="134" selection-end-line="134" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/BarronTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="6578">
+                  <caret line="290" column="43" selection-start-line="290" selection-start-column="43" selection-end-line="290" selection-end-column="43" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/apeStacksQueuesAPETests.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="22839">
+                  <caret line="1020" column="43" selection-start-line="1020" selection-start-column="43" selection-end-line="1020" selection-end-column="43" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../hw4/src/BST.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#16254#16255#0" expanded="true" />
+                    <element signature="e#16302#16303#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/StacksQueuesStudentTests.java" />
+        <option value="$PROJECT_DIR$/src/KareerFuzzTests.java" />
+        <option value="$PROJECT_DIR$/src/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/apeStacksQueuesAPETests.java" />
+        <option value="$PROJECT_DIR$/src/LinkedStack.java" />
+        <option value="$PROJECT_DIR$/src/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/BarronTest.java" />
+        <option value="$PROJECT_DIR$/src/LinkedQueue.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548808917745" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/CS1332-checkstyle.xml" />
+    <property name="settings.editor.selected.configurable" value="Groovy compiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Kareer">
+    <configuration name="APE" type="JUnit" factoryName="JUnit">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="apeStacksQueuesAPETests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Barron" type="JUnit" factoryName="JUnit">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BarronTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarronTest.testArrayStackPush" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BarronTest" />
+      <option name="METHOD_NAME" value="testArrayStackPush" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kareer" type="JUnit" factoryName="JUnit">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KareerFuzzyTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StacksQueuesStudentTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StacksQueuesStudentTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StacksQueuesStudentTests.testLinkedStackPeek" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StacksQueuesStudentTests" />
+      <option name="METHOD_NAME" value="testLinkedStackPeek" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StacksQueuesStudentTests.testLinkedStackPop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StacksQueuesStudentTests" />
+      <option name="METHOD_NAME" value="testLinkedStackPop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apeStacksQueuesAPETests.APEexceptionTestLinkedStackPop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw3" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="apeStacksQueuesAPETests" />
+      <option name="METHOD_NAME" value="APEexceptionTestLinkedStackPop" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.APE" />
+      <item itemvalue="JUnit.BarronTest.testArrayStackPush" />
+      <item itemvalue="JUnit.Barron" />
+      <item itemvalue="JUnit.Kareer" />
+      <item itemvalue="JUnit.StacksQueuesStudentTests" />
+      <item itemvalue="JUnit.StacksQueuesStudentTests.testLinkedStackPeek" />
+      <item itemvalue="JUnit.StacksQueuesStudentTests.testLinkedStackPop" />
+      <item itemvalue="JUnit.apeStacksQueuesAPETests.APEexceptionTestLinkedStackPop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.apeStacksQueuesAPETests.APEexceptionTestLinkedStackPop" />
+        <item itemvalue="JUnit.BarronTest.testArrayStackPush" />
+        <item itemvalue="JUnit.StacksQueuesStudentTests" />
+        <item itemvalue="JUnit.StacksQueuesStudentTests.testLinkedStackPeek" />
+        <item itemvalue="JUnit.StacksQueuesStudentTests.testLinkedStackPop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f328b91b-9ffd-4173-8d83-c8aacc5cb757" name="Default Changelist" comment="" />
+      <created>1548379277595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548379277595</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Barron - 2019.01.28 at 20h 45m 13s.xml">
+      <configuration name="Barron" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Barron - 2019.01.28 at 20h 46m 58s.xml">
+      <configuration name="Barron" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Barron - 2019.01.28 at 20h 47m 28s.xml">
+      <configuration name="Barron" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Kareer - 2019.01.28 at 20h 47m 39s.xml">
+      <configuration name="Kareer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APE - 2019.01.28 at 20h 47m 54s.xml">
+      <configuration name="APE" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APE - 2019.01.28 at 20h 48m 17s.xml">
+      <configuration name="APE" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APE - 2019.01.28 at 20h 56m 43s.xml">
+      <configuration name="APE" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="APE - 2019.01.30 at 23h 08m 48s.xml">
+      <configuration name="APE" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Barron - 2019.01.30 at 23h 09m 03s.xml">
+      <configuration name="Barron" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Kareer - 2019.01.30 at 23h 09m 12s.xml">
+      <configuration name="Kareer" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49906892" weight="0.2673667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5009311" side_tool="true" weight="0.12271644" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28508124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988183" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="CheckStyle" order="8" visible="true" weight="0.042016808" />
+      <window_info anchor="bottom" auto_hide="true" id="PDF_FIND" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3277311" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="CodeMR" order="6" />
+      <window_info anchor="right" id="CodeMR Metrics" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32956383" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/HW03.pdf">
+      <provider selected="true" editor-type-id="pdf" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KareerFuzzTests.java" />
+    <entry file="file://$PROJECT_DIR$/src/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2599">
+          <caret line="113" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StacksQueuesStudentTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KareerFuzzyTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2967">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BarronTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6578">
+          <caret line="290" column="43" selection-start-line="290" selection-start-column="43" selection-end-line="290" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/apeStacksQueuesAPETests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22839">
+          <caret line="1020" column="43" selection-start-line="1020" selection-start-column="43" selection-end-line="1020" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../hw4/src/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#16254#16255#0" expanded="true" />
+            <element signature="e#16302#16303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
